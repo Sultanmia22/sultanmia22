@@ -35,10 +35,9 @@ I love creating **responsive websites** and **full-stack applications** with cle
 
 ## Connect with me
 <p align="left">
-  <a href="https://www.facebook.com/sm.emon.564" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /> </a>
-  <a href="https://www.linkedin.com/in/sultanmia22/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" /> </a>
-  <a href="https://github.com/sultanmia22" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /> </a>
-  <a href="https://twitter.com/sultanmia22" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /> </a>
+  <a href="https://www.instagram.com/sm.emon.564/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
 </p>
 
 ---
