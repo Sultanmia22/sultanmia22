@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Welcome+to+My+Profile+Banner" alt="Banner Image" />
+  <img src="https://i.ibb.co.com/TBBjKDSw/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.png" alt="Banner Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sultan Mia</h1>
