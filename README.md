@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-I am a passionate **Junior Web Developer** from Bangladesh.  
+I am a passionate **Junior MERN Stack Developer** from Bangladesh.  
 I love creating **responsive websites** and **full-stack applications** with clean and efficient code.  
 
 **Currently working on / exploring:**  
