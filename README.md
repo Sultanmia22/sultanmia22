@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sultan Mia</h1>
-<h3 align="center">Junior Web Developer | Building Responsive & Full-Stack Applications</h3>
+<h3 align="center">Junior MERN Stack Developer | Building Responsive & Full-Stack Applications</h3>
 
 ---
 
