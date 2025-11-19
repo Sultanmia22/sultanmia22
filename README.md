@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/TBBjKDSw/Black-and-Yellow-Web-Developer-Linked-In-Banner-1.png" alt="Banner Image" />
+  <img src="https://github.com/Sultanmia22/sultanmia22/blob/main/MD.Sultan%20Mia%20Prefessional%20Banner.png" alt="Banner Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sultan Mia</h1>
