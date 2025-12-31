@@ -90,16 +90,16 @@ I am a passionate **MERN Stack Developer** from Bangladesh, focused on building 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/sultanmia22" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Sultanmia22" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="45" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/devmdsultanmia/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
   </a>
-  <a href="https://twitter.com/your-twitter-username" target="_blank" rel="noreferrer">
+  <a href="https://x.com/sultanmia5732" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="45" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank" rel="noreferrer">
+  <a href="mailto:sultanmia5732@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="35" width="45" />
   </a>
 </p>
