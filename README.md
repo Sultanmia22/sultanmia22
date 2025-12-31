@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sultan Mia</h1>
-<h3 align="center">Junior MERN Stack Developer | Building Responsive & Full-Stack Applications</h3>
+<h3 align="center"> MERN Stack Developer | Building Responsive & Full-Stack Applications</h3>
 
 ---
 
 ## About Me
-I am a passionate **Junior MERN Stack Developer** from Bangladesh.  
+I am a passionate **MERN Stack Developer** from Bangladesh.  
 I love creating **responsive websites** and **full-stack applications** with clean and efficient code.  
 
 **Currently working on / exploring:**  
@@ -26,6 +26,7 @@ I love creating **responsive websites** and **full-stack applications** with cle
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
