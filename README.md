@@ -41,7 +41,7 @@ I am a passionate **MERN Stack Developer** from Bangladesh, focused on building 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/> 
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://i.ibb.co.com/LDxbhGjB/nextjs.png" alt="Next.js" width="45" height="45"/> 
+    <img src="https://i.ibb.co.com/3mX5QP33/nextjs-icon-icon-sm.png" alt="Next.js" width="45" height="45"/> 
   </a>
 </p>
 
