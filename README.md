@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/ksMsK5Lk/My-Professional-banner.png" alt="Banner Image" />
+  <img src="https://i.ibb.co.com/xtbzS8vr/My-Professional-banner.png" alt="Banner Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sultan Mia</h1>
-<h3 align="center">Frontend Developer | Building Responsive & Full-Stack Applications</h3>
+<h3 align="center">MERN Stack Developer | Building Responsive & Full-Stack Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sultanmia22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
