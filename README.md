@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sultan Mia</h1>
-<h3 align="center">MERN Stack Developer | Building Responsive & Full-Stack Applications</h3>
+<h3 align="center">MERN Stack Developer | Frontend Developer (React & Next.js) | TypeScript | Node.js • Express.js • MongoDB | Redux • Tailwind CSS | JavaScript (ES6+)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sultanmia22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -13,14 +13,14 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **MERN Stack Developer** from Bangladesh, focused on building responsive and scalable web applications. I enjoy working with modern technologies like React, Next.js, and Node.js to create clean, efficient, and user-friendly solutions. My goal is to continuously learn and implement best practices in web development.
+I am a passionate **MERN Stack Developer** from Bangladesh, focused on building responsive and scalable web applications. I enjoy working with modern technologies like **React**, **Next.js**, **TypeScript**, and **Node.js** to create clean, efficient, and user-friendly solutions. My goal is to continuously learn and implement best practices in web development.
 
 ### 🚀 Current Activities
 
 - 🔭 Exploring **Next.js** and modern React patterns
 - 🌐 Working on a **tourism web application**
 - 💻 Building full-stack projects with **Node.js & MongoDB**
-- 📚 Learning advanced state management and optimization techniques
+- 📚 Learning advanced **TypeScript**, **Redux**, and state management techniques
 
 ---
 
@@ -35,13 +35,19 @@ I am a passionate **MERN Stack Developer** from Bangladesh, focused on building 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript (ES6+)" width="45" height="45"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/> 
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://i.ibb.co.com/3mX5QP33/nextjs-icon-icon-sm.png" alt="Next.js" width="45" height="45"/> 
+  </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="45" height="45"/> 
   </a>
 </p>
 
@@ -103,8 +109,6 @@ I am a passionate **MERN Stack Developer** from Bangladesh, focused on building 
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="35" width="45" />
   </a>
 </p>
-
-> **Note:** Replace the placeholder links above with your actual LinkedIn, Twitter, and email addresses.
 
 ---
 
