@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/hxQPmsDd/Gemini-Generated-Image-x9q29bx9q29bx9q2.png" alt="Banner Image" />
+  <img src="https://i.ibb.co.com/2914B1w/Gemini-Generated-Image-uffir6uffir6uffi.png" alt="Banner Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sultan Mia</h1>
