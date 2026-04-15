@@ -58,29 +58,29 @@ I am a passionate **MERN Stack Developer** from Bangladesh, focused on building 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sultanmia22&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sultan Mia's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sultanmia22&theme=radical&hide_border=true" alt="Sultan Mia's GitHub Streak" width="48%" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sultanmia22&show_icons=true&theme=tokyonight&hide_border=true" alt="Sultan's Stats" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sultanmia22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sultanmia22&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanmia22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sultanmia22&theme=tokyonight&hide_border=true&area=true" width="97%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sultanmia22&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>"Coding is the art of problem solving; life is the process of debugging."</i>
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/sultanmia22">Sultan Mia</a>
+  <img src="https://komarev.com/ghpvc/?username=sultanmia22&label=Profile%20Views&color=007acc&style=flat" alt="Profile Views" />
 </p>
