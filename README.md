@@ -39,20 +39,20 @@ I am a passionate **MERN Stack Developer** from Bangladesh, focused on building 
 ---
 ---
 
-## 🌐 Connect with Me
+## 📬 Get in Touch
 
 <p align="left">
-  <a href="https://github.com/Sultanmia22" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="35" width="45" />
+  <a href="https://www.linkedin.com/in/devmdsultanmia/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/devmdsultanmia/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  <a href="https://github.com/Sultanmia22" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
   </a>
-  <a href="https://x.com/sultanmia5732" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="45" />
+  <a href="https://x.com/sultanmia5732" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
   </a>
-  <a href="mailto:sultanmia5732@gmail.com" target="_blank" rel="noreferrer">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="35" width="45" />
+  <a href="mailto:sultanmia5732@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
   </a>
 </p>
 
