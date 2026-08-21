@@ -66,12 +66,9 @@ I am a passionate **MERN Stack Developer** from Bangladesh, focused on building 
 </p>
 
 <p align="center">
-  <img
-    width="97%"
-    src="https://streak-stats.demolab.com/?user=sultanmia22&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanmia22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 <br />
 
