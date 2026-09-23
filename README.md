@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/21qvNwQ5/My-Latest-Cover-Photo.png" alt="Banner Image" />
+  <img src="https://i.ibb.co.com/LzfkmLHR/My-Latest-Professional-Cover-Photo.png" alt="Banner Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sultan Mia</h1>
